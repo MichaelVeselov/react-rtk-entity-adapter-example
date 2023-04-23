@@ -1,0 +1,59 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "title": "Learn Toolkit",
+      "completed": true
+    },
+    {
+      "id": 2,
+      "title": "Learn React",
+      "completed": false
+    },
+    {
+      "id": 3,
+      "title": "Learn English",
+      "completed": false
+    },
+    {
+      "id": 4,
+      "title": "Learn Redux",
+      "completed": true
+    },
+    {
+      "id": 5,
+      "title": "Something new",
+      "completed": false
+    },
+    {
+      "title": "Learn HTML",
+      "completed": true,
+      "id": 6
+    },
+    {
+      "title": "Learn JS",
+      "completed": true,
+      "id": 8
+    },
+    {
+      "title": "Learn HTML",
+      "completed": true,
+      "id": 9
+    },
+    {
+      "title": "learn php",
+      "completed": false,
+      "id": 10
+    },
+    {
+      "title": "learn c++",
+      "completed": true,
+      "id": 11
+    },
+    {
+      "title": "learn SCSS",
+      "completed": true,
+      "id": 12
+    }
+  ]
+}
